@@ -9,4 +9,4 @@ I like to develop software, tools, and games as both a hobby and part of my educ
 
 ### Projects
 - **[EEG Emotional Classification Model](https://github.com/danielszelep/eeg-emotion-classification)** - An EEG emotion classification model, written with Python in a Jupyter Notebook. Uses an RNN built and trained with PyTorch.
-- **[Melanoma Detection Model](https://github.com/danielszelep/melanoma-detection-model)** - A melanoma skin cancer detection model that employs a CNN, written with Python in a Jupyter Notebook. Created as part of a final report at Kyoto University.
+- **[Melanoma Detection Model](https://github.com/danielszelep/melanoma-detection-model/blob/main/Melanoma_Detection_Model.ipynb)** - A melanoma skin cancer detection model that employs a CNN, written with Python in a Jupyter Notebook. Created as part of a final report at Kyoto University.
